@@ -1,0 +1,38 @@
+body{
+    background-color: #000000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    /* overflow: hidden; */
+}
+
+button{
+    background-color: #ff0000;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 10px;
+    font-size: 25px;
+    border-radius: 10px;
+
+}
+
+h2{
+    font-size: 50px;
+}
+h1{
+    font-size: 60px;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    align-items: center;
+    gap: 10px;
+    border:1px solid #ffffff;
+    
+} 
